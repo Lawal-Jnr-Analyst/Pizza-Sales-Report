@@ -41,11 +41,11 @@ I used SQL to ensure data integrity and calculate the metrics displayed in the d
 
 
 ## 🖥️ Preview
-[Page 1: Executive Summary & Sales Trends](https://github.com/Lawal-Jnr-Analyst/Sunshine-Phone-Sales/blob/main/SUNSHINE%20PHONE%20SALES.jpg)
->click the image above to see a preview of the final dashboard.
+[Page 1: Executive Summary & Sales Trends](https://github.com/Lawal-Jnr-Analyst/Pizza-Sales-Report/blob/main/Pizza%20sales_page-0001.jpg)
+>click the link above to see a preview of the final dashboard.
 
-[Page 2: Product Performance & Best/Worst Sellers](https://github.com/Lawal-Jnr-Analyst/Sunshine-Phone-Sales/blob/main/SUNSHINE%20PHONE%20SALES.jpg)
->click the image above to see a preview of the final dashboard.
+[Page 2: Product Performance & Best/Worst Sellers](https://github.com/Lawal-Jnr-Analyst/Pizza-Sales-Report/blob/main/Pizza%20sales_page-0002.jpg)
+>click the link above to see a preview of the final dashboard.
 
 
 #### 🧑‍💻Author: [Lawal-Jnr-Analyst](https://github.com/Lawal-Jnr-Analyst)
