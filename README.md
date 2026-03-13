@@ -41,7 +41,7 @@ I used SQL to ensure data integrity and calculate the metrics displayed in the d
 
 
 ## 🖥️ Preview
-[Pizza Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNmE4ZGU4OWMtM2U4MS00M2IwLWEzMTMtYWE0ZmJiNGQ1NGMyIiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9&embedImagePlaceholder=true)
+[Pizza Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNmE4ZGU4OWMtM2U4MS00M2IwLWEzMTMtYWE0ZmJiNGQ1NGMyIiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9)
 >The full interactive dashboard is available via the link above.
 
 
