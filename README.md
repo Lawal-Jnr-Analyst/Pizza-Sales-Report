@@ -41,11 +41,9 @@ I used SQL to ensure data integrity and calculate the metrics displayed in the d
 
 
 ## 🖥️ Preview
-[Page 1: Executive Summary & Sales Trends](https://github.com/Lawal-Jnr-Analyst/Pizza-Sales-Report/blob/main/Pizza%20sales_page-0001.jpg)
->click the link above to see a preview of the final dashboard.
+[Pizza Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNmE4ZGU4OWMtM2U4MS00M2IwLWEzMTMtYWE0ZmJiNGQ1NGMyIiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9&embedImagePlaceholder=true)
+>The full interactive dashboard is available via the link above.
 
-[Page 2: Product Performance & Best/Worst Sellers](https://github.com/Lawal-Jnr-Analyst/Pizza-Sales-Report/blob/main/Pizza%20sales_page-0002.jpg)
->click the link above to see a preview of the final dashboard.
 
 
 #### 🧑‍💻Author: [Lawal-Jnr-Analyst](https://github.com/Lawal-Jnr-Analyst)
